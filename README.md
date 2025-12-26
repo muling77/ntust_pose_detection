@@ -5,7 +5,7 @@ convert_cmu_hand_to_yolo_pose:CMU資料集轉yolo格式
 
 ---
 進度：
-1.hand-keypoints data訓練+測試，存在泛化力不足的問題;
+1.hand-keypoints data訓練+測試，存在泛化力不足的問題/n
 2.成功轉換CMU的原始資料(jpg+josn)到yolo格式(txt)
 
 改進目標：
